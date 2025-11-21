@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henry
 - 👀 I’m interested in technology, sports (tennis, cycling, swimming)
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on car-sharing/ car rental project
+- 🌱 I want to get back into coding to explore my self-learning abilities. I'm curious and enjoy learning new things.
+- 💞️ I’m looking to collaborate on sharing mobility projects (vehicle sharing, ride sharing, parking sharing, ect. )  
 - 📫 Reach me at h2mdhbk@gmail.com
 
 <!---
