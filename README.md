@@ -6,8 +6,8 @@ _<br> focus: ["shared mobility", "smart city", "AI”],
 <br> philosophy: "the best or nothing",
 <br> approach: "Build it from scratch, learn the fundamentals",
 <br> techStack: {
-<br>    languages: ["JavaScript", "TypeScript", "Python"],
-<br>    interests: ["LLMs", "AI Agent", "Data Visualization"]
+<br>    &nbsp; &nbsp; languages: ["JavaScript", "TypeScript", "Python"],
+<br>    &nbsp; &nbsp; interests: ["LLMs", "AI Agent", "Data Visualization"]
 <br>    },
 <br> hobbies: [“tennis”, “cycling”, “reading”],
 <br> contact: “h2mdhbk@gmail.com”
