@@ -4,13 +4,12 @@ Hi there, I'm Henry 👋
 ```javascript
 const Henry = {
   focus: ["shared mobility", "smart city", "AI"], 
-  philosophy: "the best or nothing",
+  philosophy: "Never lose a holy curiosity",
   approach: "Build it from scratch, learn the fundamentals",
   techStack: {
     languages: ["JavaScript", "TypeScript", "Python"],
-    interests: ["LLMs", "AI Agent", "Data Visualization"]
+    interests: ["Software Development", "Data Analysis", "Automation", "Robotics" ]
   },
   hobbies: ["tennis", "cycling", "reading"], 
   contact: "h2mdhbk@gmail.com" 
 };
-
